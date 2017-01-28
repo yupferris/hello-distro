@@ -1,0 +1,4 @@
+[root]
+name = "hello-distro"
+version = "0.1.0"
+
